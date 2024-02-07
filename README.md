@@ -18,5 +18,4 @@ To add the component to your project, follow these steps:
 
 ![image](https://github.com/dgnyldrm7/Move_previous_and_next/assets/94688501/ce691354-18e2-4874-8a8e-5d080c530c0f)
 
-
-
+ 
